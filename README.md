@@ -1,4 +1,4 @@
-# Why Dbots?
+# Why MT4?
 All the Forex EA are specifically designed to work on any broker MT4 platform with AI technology, which you can access by <b><a href="https://provenbinarybot.com/ZeroSpread">creating an account</a></b> or <b><a href="https://provenbinarybot.com/Bot">by becoming a partner</a></b>. Remember, "Game theory rules everything. So come to the game."
 
 Before Downloading all the free Forex EA, Follow these steps to get started:
