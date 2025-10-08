@@ -1,0 +1,94 @@
+AS=FREE EA, Indicators > ForexCracked.com
+Signal_1=true
+Signal_2=true
+Signal_3=true
+Signal_4=true
+MM===== Risk Management ====
+FixedLots=0.01
+AutoMM=0.2
+AutoMM_Max=5.0
+K_Mart=1.0
+GS===== General Settings ====
+Magic=101010
+EA_Comment=Grid Master PRO
+MaxSpread=5.0
+LongTrades=true
+ShortTrades=true
+OnlyManualTrading=false
+CS===== Custom Settings ====
+M1_Execution=true
+ForceProfit=8
+ForceLoss=2500
+FixedTakeProfit=0
+FixedStopLoss=0
+OscPer=20
+OscLev=5
+OscPerHiTF=20
+OscLevHiTF=10
+TrendFilterON=true
+MA1_Per=100
+MA2_Per=60
+ADS===== Additional Trades Settings ====
+MaxAddTrades=3
+AddOnReverse=false
+ReverseBarTF=1
+AddDistance_Default=15
+AddDistance_1=14
+AddDistance_2=10
+AddDistance_3=0
+AddDistance_4=0
+AddDistance_5=0
+AddDistance_6=0
+AddDistance_7=0
+AddDistance_8=0
+AddDistance_9=0
+AddDistance_10=0
+AddDelay_1=0
+AddDelay_2=0
+AddDelay_3=0
+AddDelay_4=0
+AddDelay_5=0
+AddDelay_6=0
+AddDelay_7=0
+AddDelay_8=0
+AddDelay_9=0
+AddDelay_10=0
+RS===== Recovery Settings ====
+RecoveryProfit=31
+RecoveryAfter=97
+RecoveryTrades=2
+RecoveryTradesDistance=100
+RecoveryRiskMultiplier=2.0
+TM===== Time Management System ====
+AllowedHour_ForBacktest=-1
+NoAddsAlso=true
+MondayTrading=true
+MondayTradingHours=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+TuesdayTrading=true
+TuesdayTradingHours=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+WednesdayTrading=true
+WednesdayTradingHours=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ThursdayTrading=true
+ThursdayTradingHours=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+FridayTrading=true
+FridayTradingHours=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+SaturdayTrading=true
+SaturdayTradingHours=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+SundayTrading=true
+SundayTradingHours=
+FE===== Friday Exit ====
+FridayExit=false
+ExitHourFr=21
+LastTradeHour=19
+NN===== Notifications ====
+EMAIL_Notification=false
+PUSH_Notification=false
+GMTS====== GMT Settings ====
+GMT_Offset=2
+Calculate_DST=true
+NF===== News Filter Settings ====
+Avoid_News=false
+Include_Medium_News=false
+Filter_NFP_FOMC_ONLY=false
+Wait_Before_News=30
+Wait_After_News=30

@@ -1,0 +1,36 @@
+GeneralSet========= General Settings ========
+Magic=333301
+CommentOrders=
+RiskSet========= Risk Settings ========
+FixedLotSize=0.1
+StopLoss=250
+UseVirtualSL=false
+TakeProfit=0
+RiskSetAuto========= Risk Settings - Automatic Lot ========
+UseAutoLot=false
+RiskInPercentOfBalance=2.0
+MaxLotSize=10.0
+InfiniteStormSet========= Infinite Storm Specific Settings ========
+PredictorDistance=17
+PredictorMultiplier=4
+PointsToleranceL=38
+PointsToleranceH=22
+BeTrSet========= BreakEven+Trailing Settings ========
+UseBreakEvenTrail=true
+PointsBE1=16
+PointsBE2=7
+PointsLockBE=7
+PointsTrailingDist=14
+PointsTrailingStep=5
+PanelSet========= Info Panel Settings ========
+ShowInfoPanel=false
+PanelBackgroundColor=0
+DefaultFontColor=16777215
+PanelHeaderColor=16776960
+HeaderFontColor=0
+OtherSet========= Other Settings ========
+UseSpreadProtection=true
+MaxSpread=20
+MaxSlippage=10
+EnablePushNotifyStatus=true
+StatusIntervalInHours=24

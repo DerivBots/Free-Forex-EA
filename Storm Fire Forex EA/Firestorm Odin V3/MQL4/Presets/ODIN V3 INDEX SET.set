@@ -1,0 +1,94 @@
+LicenseKey=
+MMType=1
+UseClose=false
+UseAdd=true
+Lots=0.01
+LotExponent=2.0
+slip=3
+TakeProfit=1000
+Stoploss=5000
+UseTrailingStop=false
+TrailStart=100
+TrailStop=100
+PipStep=300.0
+MaxTrades=10
+UseEquityStop=false
+TotalEquityRisk=20.0
+UseTimeOut=false
+MaxTradeOpenHours=48.0
+GridSetH=********
+GridSettings=Grid Settings
+EnableGrid=true
+UseSetLots=true
+SetLots=0.01,0.01,0.01,0.02,0.03,0.04,0.05,0.06
+WAutoCount=false
+EntryDelay=14400
+UseWaterstriderAI=true
+SetCountArray=4,4
+GridSetArray=500,500,500
+TP_SetArray=500,600,700
+MaxCloseTrades=4
+ForceCloseOldest=true
+ForceTPPips=700.0
+CloseTPPips=500.0
+MinTPPips=450.0
+BreakEvenTrade=6
+BEPlusPips=500.0
+UseStopLoss=true
+SLPips=0.0
+TSLPips=480.0
+TSLPipsMin=220.0
+EmergencyCloseAll=false
+MaxSpread=200000.0
+EnableInverse=false
+RecoupClosedLoss=true
+UseCloseOldest=false
+UseMM=false
+MaximizeProfit=false
+MoveTP=300.0
+ProfitSet=70.0
+TotalMoves=2
+RSI_Period=18
+EAName=Firestorm Odin V3
+Timing=_Time Settings_______
+EnableTimeFilter=true
+S1StartHr=9
+S1StartMin=0
+S1StopHr=13
+S1StopMin=30
+S2StartHr=15
+S2StartMin=5
+S2StopHr=18
+S2StopMin=55
+Vacation=_Vacation Settings_______
+EnableVacFilter=true
+VacDay=24
+VacMonth=12
+ResDay=3
+ResMonth=1
+NewsSet=_News Settings_______
+EnableNewsFilter=true
+NewsMinsBefore=15
+NewsMinsAfter=15
+NFPDisable=true
+Display=_Display Settings_______
+FontSize=10
+BackGrnd=false
+BGClr=-1
+
+
+
+??For More Free EA, Indicators, Trading Systems, Video course Vist
+>>>>> https://ForexCracked.com
+
+??Join Our Telegram Group To Discus Further About These 
+>>>>> https://t.me/fxcracked
+
+??Join Discord Channel to Download and test Profitable EAs:
+>>>>> https://discord.gg/43P5CRk
+
+??Review your Favorites, Profitable, Scam , fraud EA here
+>>>>> https://www.fxcracked.com/
+
+??Our forum
+>>>>> https://www.JustForForex.com/

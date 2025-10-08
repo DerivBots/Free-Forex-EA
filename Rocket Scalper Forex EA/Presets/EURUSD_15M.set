@@ -1,0 +1,10 @@
+MaxSpread=4.0
+MaxSlippage=1.0
+TradingSettings=ForexCracked.com
+HourStart=23
+HourEnd=1
+Lots=0.01
+UseRisk=true
+MaxRisk=2.0
+StopLoss=30
+TakeProfit=10

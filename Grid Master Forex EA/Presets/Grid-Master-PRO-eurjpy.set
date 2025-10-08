@@ -1,0 +1,94 @@
+AS=FREE EA, Indicators > ForexCracked.com
+Signal_1=1
+Signal_2=1
+Signal_3=1
+Signal_4=1
+MM===== Risk Management ====
+FixedLots=0.01000000
+AutoMM=0.20000000
+AutoMM_Max=5.00000000
+K_Mart=1.00000000
+GS===== General Settings ====
+Magic=101010
+EA_Comment=Grid Master PRO
+MaxSpread=3.00000000
+LongTrades=1
+ShortTrades=1
+OnlyManualTrading=0
+CS===== Custom Settings ====
+M1_Execution=1
+ForceProfit=8
+ForceLoss=2500
+FixedTakeProfit=0
+FixedStopLoss=0
+OscPer=25
+OscLev=3
+OscPerHiTF=26
+OscLevHiTF=10
+TrendFilterON=1
+MA1_Per=100
+MA2_Per=60
+ADS===== Additional Trades Settings ====
+MaxAddTrades=3
+AddOnReverse=0
+ReverseBarTF=1
+AddDistance_Default=15
+AddDistance_1=14
+AddDistance_2=10
+AddDistance_3=0
+AddDistance_4=0
+AddDistance_5=0
+AddDistance_6=0
+AddDistance_7=0
+AddDistance_8=0
+AddDistance_9=0
+AddDistance_10=0
+AddDelay_1=0
+AddDelay_2=0
+AddDelay_3=0
+AddDelay_4=0
+AddDelay_5=0
+AddDelay_6=0
+AddDelay_7=0
+AddDelay_8=0
+AddDelay_9=0
+AddDelay_10=0
+RS===== Recovery Settings ====
+RecoveryProfit=50
+RecoveryAfter=80
+RecoveryTrades=2
+RecoveryTradesDistance=100
+RecoveryRiskMultiplier=2.00000000
+TM===== Time Management System ====
+AllowedHour_ForBacktest=-1
+NoAddsAlso=0
+MondayTrading=1
+MondayTradingHours=17,18,19,21,22,23,0,1,2,3,4,5,6,7,8,9,10
+TuesdayTrading=1
+TuesdayTradingHours=17,18,19,21,22,23,0,1,2,3,4,5,6,7,8,9,10
+WednesdayTrading=1
+WednesdayTradingHours=17,18,19,21,22,23,0,1,2,3,4,5,6,7,8,9,10
+ThursdayTrading=1
+ThursdayTradingHours=17,18,19,21,22,23,0,1,2,3,4,5,6,7,8,9,10
+FridayTrading=1
+FridayTradingHours=17,18,19,21,22,23,0,1,2,3,4,5,6,7,8,9,10
+SaturdayTrading=1
+SaturdayTradingHours=
+SundayTrading=1
+SundayTradingHours=
+FE===== Friday Exit ====
+FridayExit=0
+ExitHourFr=21
+LastTradeHour=19
+NN===== Notifications ====
+EMAIL_Notification=0
+PUSH_Notification=0
+GMTS====== GMT Settings ====
+GMT_Offset=2
+Calculate_DST=true
+NF===== News Filter Settings ====
+Avoid_News=false
+Include_Medium_News=false
+Filter_NFP_FOMC_ONLY=false
+Wait_Before_News=30
+Wait_After_News=30
