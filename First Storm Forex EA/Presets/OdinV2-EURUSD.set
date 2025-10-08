@@ -1,0 +1,17 @@
+MMType=1
+UseClose=false
+UseAdd=true
+Lots=0.01
+LotExponent=2.0
+slip=3
+TakeProfit=600.0
+Stoploss=5000.0
+UseTrailingStop=true
+TrailStart=300
+TrailStop=300
+PipStep=100.0
+MaxTrades=10
+UseEquityStop=false
+TotalEquityRisk=20.0
+UseTimeOut=false
+MaxTradeOpenHours=48.0

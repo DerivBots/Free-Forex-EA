@@ -1,0 +1,10 @@
+AutoLot=false
+Risk=0.01
+Dist=200
+targetprofit=1.0
+Magic=8877
+PeriodIndic=2
+group5====== TRAILLINGSTOP =====
+InpTraillingStop=true
+TrailStart=50.0
+TrailStep=40.0

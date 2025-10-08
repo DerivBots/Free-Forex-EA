@@ -1,0 +1,31 @@
+LICENSED_TO==XAU MINER EA.=
+MARtiScalper=true
+USEnewsFilter=true
+xxSETTINGSxx=MONEY MANAGEMENT SETTINGS
+Lots=0.01
+LotExponent=1.1
+MaxLots=100.0
+MM=false
+TakeProfit=75.0
+UseEquityStop=false
+TotalEquityRisk=20.0
+xxxxxxxxxxxx=Set Current Trade & Orders
+UseTrailingStop_Hilo=false
+TrailStart_Hilo=10.0
+TrailStop_Hilo=5.0
+PipStep_Hilo=300.0
+MartiPRO=>>=============<< 
+UseTrailingStop_15=false
+TrailStart_15=10.0
+TrailStop_15=5.0
+PipStep_15=300.0
+EXPERTSPro=>>++++++++++<<
+UseTrailingStop_16=false
+TrailStart_16=10.0
+TrailStop_16=5.0
+PipStep_16=300.0
+CloseFriday=false
+CloseFridayHour=0
+OpenMondey=true
+OpenMondeyHour=0
+KEY= FXZHEIL
