@@ -1,0 +1,17 @@
+LicenseKey=
+Strategy1=true
+Strategy2=true
+StopLoss_=20
+TakeProfit_=40
+UseTrailingStop=true
+Trade1=15
+Trade2=16
+Trade3=34
+UseBreakoutStartegy=true
+UseEquitySafetyFilters=true
+UseStealthTechnology=true
+UseNewsFilter=true
+HighImpact=true
+MediumImpact=true
+LowImpact=true
+Initial_Lot=0.01
